@@ -31,6 +31,7 @@
 }
 
 .product__detail {
+  color: black;
   outline: none;
 }
 .product__detail:focus-visible,
@@ -60,6 +61,7 @@
 }
 .product__add {
   border-radius: 8px;
+  color: black;
   background: #f2f2f3;
   width: 100%;
   font-size: 12px;
